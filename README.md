@@ -9,7 +9,7 @@
 7) modiy the pipeline as per our sonarscanner name and sonarqube server name.
 
 
-Use the below code in sonarqube analysis report
+Use the below code in sonarqube analysis report.
 ```sh 
 sonar.projectKey=Ncodeit
 sonar.projectName=Ncodeit
